@@ -1,6 +1,6 @@
 # Spotifork
 
-Script that grabs the most recently reviewd albums from Pitchfork, and adds them to my liked songs on Spotify.
+Script that scrapes [Pitchfork's Latest Reviews](https://pitchfork.com/reviews/albums/)page for Electronic, Rap, and Experiemnatl albums,then adds them to my Reviewd By Pitchfork Spotify playlist.
 
 # Technologies
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
