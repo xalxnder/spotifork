@@ -54,6 +54,7 @@ with open('album_info.json') as file:
 
 
 #Get current playlist song ids to check for duplicates
+#Offset is used for Spotify's 100 song request limit
 for i in range(0,400,100):
     playlsit_tracks_request = requests.get('https://api.spotify.com/v1/playlists/'+ PLAYLIST_ID + '/tracks?offset='+ str(i), headers=header).json()
     playlsit_tracks_results = playlsit_tracks_request['items']
