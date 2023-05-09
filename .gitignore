@@ -3,3 +3,4 @@ Pipfile.lock
 spotify.py
 secrets.py
 /__pycache__
+*.csv
