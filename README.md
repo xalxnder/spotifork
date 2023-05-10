@@ -8,3 +8,4 @@ Script that scrapes [Pitchfork's Latest Reviews](https://pitchfork.com/reviews/a
 - [Requests Library](https://requests.readthedocs.io/en/master/)
 - [Beautiful Soup Library](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+![](https://github.com/xalxnder/spotifork/blob/main/demo.gif)
