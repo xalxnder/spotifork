@@ -4,6 +4,7 @@ Script that scrapes [Pitchfork's Latest Reviews](https://pitchfork.com/reviews/a
 
 # Technologies
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
+  - [Authroization Guide](https://developer.spotify.com/documentation/web-api/tutorials/code-flow)   
 - [Requests Library](https://requests.readthedocs.io/en/master/)
 - [Beautiful Soup Library](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
